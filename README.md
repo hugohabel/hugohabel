@@ -17,6 +17,8 @@ I have experience **working**, **leading**, and **managing** *local* and **globa
 
 ## Get in touch
 * [Twitter](https://twitter.com/hugohabel)
-* [Code Sandbox](https://codesandbox.io/dashboard/home?workspace=b30b1734-9296-4053-83f2-86679842874f) ⚗️ 
 * [Bookmarks](https://github.com/hugohabel/hugohabel/blob/master/bookmarks.md) (Articles, Tutorials, Tools, etc) 🔖
 * [Gists](https://gist.github.com/hugohabel) 📓 
+
+## Projects
+* [World Time Lite](https://hugohabel.github.io/world-time-lite/) 🗺️
