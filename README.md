@@ -22,3 +22,6 @@ I have experience **working**, **leading**, and **managing** *local* and **globa
 
 ## Projects
 * [World Time Lite](https://hugohabel.github.io/world-time-lite/) 🗺️
+
+## Experiments
+* [Timer Lite](https://codesandbox.io/s/timer-lite-le8ld?file=/index.html) ⏲️
