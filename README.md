@@ -25,3 +25,4 @@ I have experience **working**, **leading**, and **managing** *local* and **globa
 
 ## Experiments
 * [Timer Lite](https://codesandbox.io/s/timer-lite-le8ld?file=/index.html) ⏲️
+* [Carousel/Slideshow](https://codesandbox.io/s/carousel-lite-blso1) 🎡
