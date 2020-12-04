@@ -16,9 +16,8 @@ I have experience **working**, **leading**, and **managing** *local* and **globa
 💎 High-quality work
 
 ## Get in touch
-* [Twitter](https://twitter.com/hugohabel)
 * [Bookmarks](https://github.com/hugohabel/hugohabel/blob/master/bookmarks.md) (Articles, Tutorials, Tools, etc) 🔖
-* [Gists](https://gist.github.com/hugohabel) 📓 
+* [JSBites](https://github.com/hugohabel/jsbites) 🍴
 
 ## Projects
 * [World Time Lite](https://hugohabel.github.io/world-time-lite/) 🗺️ - ⚛️
