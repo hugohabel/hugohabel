@@ -21,7 +21,7 @@ I have experience **working**, **leading**, and **managing** *local* and **globa
 
 ## Projects
 * [World Time Lite](https://hugohabel.github.io/world-time-lite/) 🗺️ - ⚛️
-* [Amelia Start Page](https://github.com/hugohabel/amelia-start-page) - ⚛️ - In Progress
+* [Amelia Start Page](https://github.com/hugohabel/amelia-start-page) 🏠 - ⚛️ - In Progress
 
 ## Experiments
 * [Timer Lite](https://codesandbox.io/s/timer-lite-le8ld?file=/index.html) ⏲️
