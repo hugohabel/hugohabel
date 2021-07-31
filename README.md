@@ -16,13 +16,12 @@ I have experience **working**, **leading**, and **managing** *local* and **globa
 💎 High-quality work
 
 ## Get in touch
-* [Bookmarks](https://github.com/hugohabel/hugohabel/blob/master/bookmarks.md) (Articles, Tutorials, Tools, etc) 🔖
-* [JSBites](https://github.com/hugohabel/jsbites) 🍴
+* [JS Bites and Sweet CSS](https://github.com/hugohabel/jsbites) 🍴
 
 ## Projects
-* [World Time Lite](https://hugohabel.github.io/world-time-lite/) 🗺️ - ⚛️
 * [Amelia Start Page](https://github.com/hugohabel/amelia-start-page) 🏠 - ⚛️ - In Progress
 
 ## Experiments
 * [Timer Lite](https://codesandbox.io/s/timer-lite-le8ld?file=/index.html) ⏲️
 * [Carousel/Slideshow](https://codesandbox.io/s/carousel-lite-blso1) 🎡 - ⚛️
+* [World Time Lite](https://hugohabel.github.io/world-time-lite/) 🗺️ - ⚛️
