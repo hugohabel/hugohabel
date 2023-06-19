@@ -21,7 +21,21 @@ I decided to focus my portfolio on the area that attracts my interest the most, 
 
 *All the apps in this section are just small projects to practice my abilities with SwiftUI. They are by no means a full project or a complete app.*
 
-**Project 000**
-
-<img src="https://github.com/hugohabel/swiftui-portfolio-000/blob/main/SwiftUIPortfolio000%20-%20DarkMode.gif" width="250" />
-
+<table>
+  <th width="50%">
+    <p>Project 000</p>
+  </th>
+  <th width="50%">
+    <p>Project 001</p>
+  </th>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/hugohabel/swiftui-portfolio-000/blob/main/SwiftUIPortfolio000%20-%20DarkMode.gif" width="250" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Small custom <code>NavigationView</code> with a list of categories. Swift + SwiftUI. Custom <code>struct</code> to hold the category properties.</p>
+    </td>
+  </tr>
+</table>
